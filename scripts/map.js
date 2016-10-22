@@ -1,3 +1,3 @@
-function myMap {
+function myMap() {
   //code
 }
